@@ -17,7 +17,11 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'subprojecttoctree'
 ]
+
+is_subproject = False
+readthedocs_url = "https://joshua-hampton-rtd-tutorial.readthedocs.io/en/latest/"
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),

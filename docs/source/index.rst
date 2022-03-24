@@ -18,7 +18,8 @@ how to :ref:`installation` the project.
 Contents
 --------
 
-.. toctree::
+.. subprojecttoctree::
 
    usage
    api
+   Dinosaurs <subproject: rtd-test>
