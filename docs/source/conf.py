@@ -26,6 +26,7 @@ readthedocs_url = "https://joshua-hampton-rtd-tutorial.readthedocs.io"
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
+    'Dinosaur_subproject': ('https://joshua-hampton-rtd-tutorial.readthedocs.io/projects/Dinosaur_subproject/en/latest/', None)
 }
 intersphinx_disabled_domains = ['std']
 
