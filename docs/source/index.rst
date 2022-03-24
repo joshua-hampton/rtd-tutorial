@@ -22,4 +22,4 @@ Contents
 
    usage
    api
-   Dinosaurs <subproject: rtd-test>
+   Dinosaurs <subproject: Dinosaur_subproject>
