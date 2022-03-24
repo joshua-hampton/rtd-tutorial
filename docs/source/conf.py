@@ -21,7 +21,7 @@ extensions = [
 ]
 
 is_subproject = False
-readthedocs_url = "https://joshua-hampton-rtd-tutorial.readthedocs.io/en/latest/"
+readthedocs_url = "https://joshua-hampton-rtd-tutorial.readthedocs.io"
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
